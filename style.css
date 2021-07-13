@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5{
 }
 p{
   color: #1D4354;
-  
+
 }
 .banner img{
   width: 100%;
@@ -49,4 +49,13 @@ p{
 }
 .bg{
   background-color: #1D4354;
+}
+
+.contact{
+  height: auto;
+}
+
+.social i{
+  font-size: 30px;
+  margin: 20px;
 }
