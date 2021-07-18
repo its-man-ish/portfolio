@@ -1,0 +1,31 @@
+.navbar{
+  background-color: #1c1433;
+}
+
+#header {
+  background-image: url(../img/banner.png);
+  background-position:center;
+  background-size: cover;
+ 
+}
+
+#header img{
+  width: 100%;
+}
+#about img{
+  width: 100%;
+}
+
+.heading img{
+  width: 100%;
+}
+#purpose img{
+
+  width: 100%;
+
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
