@@ -1,5 +1,7 @@
 .navbar{
-  background-color: #2f2b3a;
+  background-image: url(../img/banner.png);
+  background-position:center;
+  background-size: cover;
 }
 
 #header {
